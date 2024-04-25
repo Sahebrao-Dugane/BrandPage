@@ -9,8 +9,7 @@ const App = () =>{
     <div>
       <Navigation/>
       <Hero/>
-    
-</div>
+ </div>
 
       
   );

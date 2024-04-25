@@ -1,4 +1,5 @@
 const Hero = () => {
+    
 return(
 <main className="hero container">
     <div className="hero-content">
@@ -9,7 +10,7 @@ return(
           SHOES.
           </p>
           <div className="hero-btn">
-            <button>Shop Now</button>
+            <button >Shop Now</button>
             <button className="secondary-btn">Category </button>
           </div>
           <div className="shopping">
@@ -23,8 +24,6 @@ return(
         </div>
     <div className="hero-image">
     <img src="/images/hero-image.png" alt="Sunset over the mountains"/>
-    
-
     </div>
 </main>
 );
